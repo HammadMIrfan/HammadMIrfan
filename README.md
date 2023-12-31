@@ -1,4 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHyyzvcpr7wEA/profile-displaybackgroundimage-shrink_350_1400/0/1703540381726?e=1709164800&v=beta&t=cg00jsCqp5VQ3oaDksCKmQhyPRP4PiZemSuFUsxoHUA)
+
+<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Tech+Trainer+;Mobile+Application+Developer;Web+Application+Developer+;Entrepreneur;Ui+Ux+Designer" alt="Typing SVG" /></div>
 <h1 align="center">Hi 👋, I'm Hammad Irfan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="399" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
